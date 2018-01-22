@@ -1,0 +1,10 @@
+dy {
+    padding-top: 54px;
+}
+
+/*La parte che regola gli schermi responsive */
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
